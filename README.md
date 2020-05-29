@@ -14,7 +14,7 @@ Build an interactive dashboard allows each volunteer access his/her demographic 
 
 **[plots.js](/plots.js)**
 
-- Use d3.json to fetch and parse biodiversity data[samples.json](/sample.json), manipulate and filter data to display information specific to particular volunteer.
+- Use d3.json to fetch and parse biodiversity data [samples.json](/sample.json), manipulate and filter data to display information specific to particular volunteer.
 
 - Use event handlers in JavaScript to add interactivity to a data visualization.
 
