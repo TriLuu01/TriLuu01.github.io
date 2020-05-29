@@ -1,6 +1,9 @@
 # Plotly_Webpage
 
 Creating a dynamic web dashboard contains various visual charts and interactive information panel.
+### Link to the deployed page
+ 
+ https://triluu01.github.io/
 
 ### Project Background
 
