@@ -8,7 +8,13 @@ The website is built using the following technologies:
 - HTML: HyperText Markup Language is used to structure the content of the website.
 - CSS: Cascading Style Sheets is used to style the website and make it visually appealing.
 - JavaScript: JavaScript is used to add interactivity and dynamic functionality to the website.
+### CSS
+Cascading Style Sheets (CSS) is used to style the website and make it visually appealing. The following helper and styling tools are used:
+- Google Fonts: A library of free and open source fonts used to enhance the typography of the website.
+- IconScout: A platform that provides high-quality icons, illustrations, and stock images used to add visual elements to the website.
+- BlobMaker.net: A free online tool used to create custom, organic shapes used to add visual interest to the website.
 
+In addition to these tools, CSS is also written using best practices and following the latest standards to ensure cross-browser compatibility and accessibility. The website is designed to be responsive and adapt to different screen sizes, using media queries and flexible layout techniques.
 ## User Stories
 The following user stories were identified to guide the development of the website:
 1. As a user, I want to be able to view information about the owner of the website, such as their name, picture, and bio.
